@@ -1,3 +1,3 @@
 Heya, I'm Scott (he/him), a Washington, DC-based software designer and researcher. Earlier this year, I founded [Open Set](https://openset.tech), a multidisciplinary studio for creative technology, experimental software prototyping, and helping me to pay the bills. I'm the main author of [Flocc](https://flocc.network), the agent-based modeling library for JavaScript and the web.
 
-I love to work with people who think in non-linear ways and who want to bring about desirable futures by envisioning new kinds of systems and working radically to bring them about. If that sounds like you, then [we should talk!](mailto:sd@scottland.cc)
+I love to work with people who think in non-linear ways and who want to bring about desirable futures by envisioning new kinds of systems and working radically to bring them about. If that sounds like you, then [we should talk!](mailto:scott.p.donaldson@gmail.com)
